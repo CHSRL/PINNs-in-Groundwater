@@ -1,4 +1,4 @@
-# PINNs-in-Groundwater-Problems
+# PINNs-in-Groundwater
 
 This repository provides a hands-on introduction to the application of Physics-Informed Neural Networks (PINNs) for solving groundwater flow problems. Designed for students, and researchers in hydrogeology, water resources, and scientific machine learning, the material combines groundwater flow theory with modern deep learning techniques.
 
